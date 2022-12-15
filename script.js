@@ -48,7 +48,7 @@ function getResult(){
 clearAll.onclick = ()=>{
    hero.innerHTML = '';
    clearAll.style.display = 'none';
-   hero.innerHTML = '<p>designed by <a href="https://tochukwu5.github.io/portfolio/">David</a><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" alt="" class="emoji"></p>'
+   hero.innerHTML = '<p>designed by <a href="https://tochukwu5.github.io/david/">David</a><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" alt="" class="emoji"></p>'
 }
 
 
